@@ -1,0 +1,7 @@
+Library Requirements
+
+1. sklearn
+2. numpy
+3. cv2 
+
+Python 3.7 setup 
